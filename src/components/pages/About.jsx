@@ -1,7 +1,7 @@
 import React from "react";
 import WebDevLogo from "../logos/Web-Development.png";
 import WebDesLogo from "../logos/Web-Design.png";
-import MbALogo from "../logos/mobile-App.png";
+import MobileLogo from "../logos/mobile-App.png";
 import PhotographyLogo from "../logos/Photography.png";
 import SfDevLogo from "../logos/Software-Development.png";
 
@@ -63,7 +63,7 @@ function About() {
           className="h-15 inline-block mx-5"
         />
         <img
-          src={MbALogo}
+          src={MobileLogo}
           alt="Mobile App Development"
           className="h-15 inline-block mx-5"
         />
