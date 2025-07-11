@@ -1,7 +1,7 @@
 import React from "react";
 import WebDevLogo from "../logos/Web-Development.png";
 import WebDesLogo from "../logos/Web-Design.png";
-import mobileApp from "../logos/mobile-App.png";
+import mobileApp from "../logos/Mobile-App.png";
 import PhotographyLogo from "../logos/Photography.png";
 import SfDevLogo from "../logos/Software-Development.png";
 
