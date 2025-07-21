@@ -34,9 +34,16 @@ const Portfolio = () => {
     {
       title: "Company Website for Imit",
       category: "Websites",
-      url: "https://imit-delta.vercel.app/",
+      url: "https://imit-zvyr.vercel.app/",
       image:
         "https://weblium.com/blog/wp-content/uploads/2019/01/image12-1000x542.png",
+    },
+    {
+      title: "arab related company",
+      category: "Websites",
+      url: "https://arabbia-com-5o4d.vercel.app/",
+      image:
+        "https://media.cntravellerme.com/photos/6568886c4e664d4bc1517d49/16:9/w_2560%2Cc_limit/1267688711",
     },
   ];
 

@@ -27,7 +27,7 @@ function About() {
           My expertise includes state management (Redux, Context API),
           component-driven architecture, performance optimization, and responsive
           design using Tailwind CSS, Material UI, and Bootstrap. I have experience
-          in server-side logic with Node.js and Express.js, implementing
+          in server-side logic with Node.js and Express.js, implementing 
           authentication strategies (JWT, OAuth), database management with MongoDB,
           and working with cloud platforms like Firebase and AWS.
           <br /><br />
